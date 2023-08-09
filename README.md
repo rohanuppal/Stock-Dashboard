@@ -1,2 +1,3 @@
-This is a stock dashboard website
+# Stock Dashboard Website
 
+This is a stock dasboard website I created using ReactJs, Tailwind CSS and is hosted with Vercel.
